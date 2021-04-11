@@ -1,39 +1,19 @@
 {
   "contacts": [
     {
-      "name": "Luna",
-      "number": "30955042034",
-      "id": 14
+      "name": "Alpha",
+      "number": "0671234567",
+      "id": 1
     },
     {
-      "name": "Alex",
-      "number": "380955042034",
-      "id": 15
+      "name": "Beta",
+      "number": "0501234567",
+      "id": 2
     },
     {
-      "name": "Frank",
-      "number": "79787382145",
-      "id": 16
-    },
-    {
-      "name": "dina",
-      "number": "14785236985",
-      "id": 17
-    },
-    {
-      "name": "Emma",
-      "number": "14785236998",
-      "id": 18
-    },
-    {
-      "name": "Viola",
-      "number": "1236547412",
-      "id": 19
-    },
-    {
-      "name": "sea",
-      "number": "6547899874",
-      "id": 20
+      "name": "Gamma",
+      "number": "0981234567",
+      "id": 3
     }
   ]
 }
